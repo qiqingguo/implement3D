@@ -1,0 +1,29 @@
+dependencies: \
+  /Users/bryce/Desktop/pro/Defence/Demo3D.part1-dApps-Net/Demo3D.part1-dApps-Net/Demo3D/libs/cocos2dx/shaders/CCGLProgram.cpp \
+  /Users/bryce/Desktop/pro/Defence/Demo3D.part1-dApps-Net/Demo3D.part1-dApps-Net/Demo3D/libs/cocos2dx/shaders/CCGLProgram.h \
+  /Users/bryce/Desktop/pro/Defence/Demo3D.part1-dApps-Net/Demo3D.part1-dApps-Net/Demo3D/libs/cocos2dx/include/ccMacros.h \
+  Demo3D/libs/cocos2dx/platform/CCCommon.h \
+  Demo3D/libs/cocos2dx/platform/CCPlatformMacros.h \
+  /Users/bryce/Desktop/pro/Defence/Demo3D.part1-dApps-Net/Demo3D.part1-dApps-Net/Demo3D/libs/cocos2dx/include/ccConfig.h \
+  Demo3D/libs/cocos2dx/platform/CCPlatformConfig.h \
+  /Users/bryce/Desktop/pro/Defence/Demo3D.part1-dApps-Net/Demo3D.part1-dApps-Net/Demo3D/libs/cocos2dx/platform/ios/CCPlatformDefine.h \
+  /Users/bryce/Desktop/pro/Defence/Demo3D.part1-dApps-Net/Demo3D.part1-dApps-Net/Demo3D/libs/cocos2dx/platform/ios/CCStdC.h \
+  Demo3D/libs/cocos2dx/cocoa/CCObject.h \
+  /Users/bryce/Desktop/pro/Defence/Demo3D.part1-dApps-Net/Demo3D.part1-dApps-Net/Demo3D/libs/cocos2dx/platform/ios/CCGL.h \
+  /Users/bryce/Desktop/pro/Defence/Demo3D.part1-dApps-Net/Demo3D.part1-dApps-Net/Demo3D/libs/cocos2dx/shaders/ccGLStateCache.h \
+  Demo3D/libs/cocos2dx/platform/CCFileUtils.h \
+  /Users/bryce/Desktop/pro/Defence/Demo3D.part1-dApps-Net/Demo3D.part1-dApps-Net/Demo3D/libs/cocos2dx/include/ccTypes.h \
+  Demo3D/libs/cocos2dx/cocoa/CCGeometry.h \
+  Demo3D/libs/cocos2dx/support/data_support/uthash.h \
+  Demo3D/libs/cocos2dx/cocoa/CCString.h \
+  Demo3D/libs/cocos2dx/kazmath/include/kazmath/GL/matrix.h \
+  Demo3D/libs/cocos2dx/kazmath/include/kazmath/GL/../mat4.h \
+  Demo3D/libs/cocos2dx/kazmath/include/kazmath/GL/../utility.h \
+  Demo3D/libs/cocos2dx/kazmath/include/kazmath/GL/../vec3.h \
+  Demo3D/libs/cocos2dx/kazmath/include/kazmath/kazmath.h \
+  Demo3D/libs/cocos2dx/kazmath/include/kazmath/GL/../vec2.h \
+  Demo3D/libs/cocos2dx/kazmath/include/kazmath/GL/../mat3.h \
+  Demo3D/libs/cocos2dx/kazmath/include/kazmath/GL/../quaternion.h \
+  Demo3D/libs/cocos2dx/kazmath/include/kazmath/GL/../plane.h \
+  Demo3D/libs/cocos2dx/kazmath/include/kazmath/GL/../aabb.h \
+  Demo3D/libs/cocos2dx/kazmath/include/kazmath/GL/../ray2.h

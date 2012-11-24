@@ -1,0 +1,35 @@
+Contents of /Users/bryce/Desktop/pro/Defence/Demo3D.part1-dApps-Net/Demo3D.part1-dApps-Net/Demo3D/Prefix.pch
+4.1 (tags/Apple/clang-421.11.65) (based on LLVM 3.1svn)
+i386-apple-darwin12.1.0
+-x
+objective-c
+-arch
+i386
+-fmessage-length=0
+-std=gnu99
+-fpascal-strings
+-O0
+-DDEBUG
+-DCOCOS2D_DEBUG=1
+-DUSE_FILE32API
+-DTARGET_OS_IPHONE
+-isysroot
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk
+-fexceptions
+-fasm-blocks
+-g
+-fobjc-abi-version=2
+-fobjc-legacy-dispatch
+-DIBOutlet=__attribute__((iboutlet))
+-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))
+-DIBAction=void)__attribute__((ibaction)
+-mios-simulator-version-min=4.0
+-iquote
+-iquote
+-I/Users/bryce/Desktop/pro/Defence/Demo3D.part1-dApps-Net/Demo3D.part1-dApps-Net/DerivedData/Build/Products/Debug-iphonesimulator/include
+-IDemo3D/libs/cocos2dx/kazmath/include
+-IDemo3D/libs/cocos2dx
+-IDemo3D/libs/CocosDenshion/include
+-I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/usr/include/libxml2
+-F/Users/bryce/Desktop/pro/Defence/Demo3D.part1-dApps-Net/Demo3D.part1-dApps-Net/DerivedData/Build/Products/Debug-iphonesimulator
+SDK_PRODUCT_BUILD_VERSION=10A403
